@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.red {
+    color: #f74551;
+}
+
+.Purple {
+    color: #009bf5;
+}
+
+.Pink {
+    color: #f52100;
+}
+
+.Town {
+    color: #00acfc;
+}
+
+.Drink {
+    color: #6ff7d3;
+}
+
+.word {
+    color: #c4fa89;
+}
+
+body {
+    background: linear-gradient(#0324a8, #00c4f5, #3acf4e, #f5d000, #f5006e, #b80000);
+}
